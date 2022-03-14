@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haydencodesstuff
+- 👋 Hi,
 - 👀 I’m interested in building useful things
 - 🌱 I’m currently learning python & SQL
 - 📫 reach me on instagram @haydencodesstuff
